@@ -101,7 +101,7 @@ https://github.com/faris6552/Sphere-Schedule-AndroidUI
 
 Screenshots
 
-(Add screenshots here after uploading images)
+
 
 ---
 
