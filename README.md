@@ -101,8 +101,7 @@ https://github.com/faris6552/Sphere-Schedule-AndroidUI
 
 Screenshots
 
-https://github.com/faris6552/Sphere-Schedule-AndroidUI/blob/main/Screenshot_20260213_225858_MobileUI%20Design.jpg
-
+https://raw.githubusercontent.com/faris6552/Sphere-Schedule-AndroidUI/refs/heads/main/Screenshot_20260213_225858_MobileUI%20Design.jpg
 ---
 
 Future Improvements
