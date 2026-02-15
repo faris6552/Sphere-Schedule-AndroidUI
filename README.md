@@ -1,6 +1,20 @@
 # schedule-androidUI-design
 Sphere Schedule
+## 📱 Mobile App Preview
 
+<p align="center">
+  <img src="Home.jpg" width="30%" />
+  <img src="Task.jpg" width="30%" />
+</p>
+
+<p align="center">
+  <img src="Settings.jpg" width="30%" />
+  <img src="Reports.jpg" width="30%" />
+</p>
+
+<p align="center">
+  <img src="Meetings.jpg" width="30%" />
+</p>
 About the Project
 
 Sphere Schedule is a prototype Android mobile application focused on the design and user experience of modern scheduling systems.
