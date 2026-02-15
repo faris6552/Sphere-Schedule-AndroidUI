@@ -13,7 +13,7 @@ Sphere Schedule
 </p>
 
 <p align="center">
-  <img src="Meetings.jpg" width="30%" />
+  <img src="Meeting.jpg" width="30%" />
 </p>
 About the Project
 
